@@ -1,0 +1,10 @@
+[
+    {
+        "name": "Large Sword",
+        "quality": 2,
+        "strength": 10,
+        "require": {
+            "lvl": 10
+        }
+    }
+] 
